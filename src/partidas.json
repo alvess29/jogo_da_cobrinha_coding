@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "tabuleiro": [
+            "X",
+            "O",
+            "X",
+            "O",
+            "X",
+            " ",
+            "X",
+            " ",
+            "O"
+        ],
+        "jogador_atual": "X",
+        "finalizada": true
+    }
+]

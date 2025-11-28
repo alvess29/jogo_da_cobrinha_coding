@@ -14,7 +14,8 @@ Não é necessário instalar bibliotecas externas (apenas módulos padrão do Py
 ------*Como executar*------
 
 Exemplo:
-Execute no terminal/cmd e digite: cd C:\Users\IVANALVES\Documents\jogos coding           
+Execute no terminal/cmd e digite: pip install pygame                    
+depois digite: cd C:\Users\IVANALVES\Documents\jogos coding           
 com isso você achará a pasta onde o arquivo .py se encontra.            
 E digitará o seguinte código: python jogo_da_velha_com_crud.py ou python3 jogo_da_velha_com_crud.py
 
